@@ -1,0 +1,205 @@
+.bdy{
+    background-color: black;
+}
+.page1{
+    height: 800px;
+    border: 2px solid grey;
+    margin-top: 0px;
+    background-image: url(/html/assignments/netflix/images/IN-en-20221206-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+
+}
+
+#but1{
+    margin-left: 1140px;
+    margin-top: 10px;
+    background-color: #B7C4CF;
+    color: black;
+}
+
+#but2{
+    margin-left: 1300px;
+   margin-top: -70px;
+   background-color: #B7C4CF;
+   color: black;
+}
+.but3{
+    margin-left: 450px;
+    font-size: 30px;
+    margin-top: 10px;
+
+}
+.but4{
+    font-size: 30px;
+    /* background-color: white; */
+    background-color: red;
+
+}
+.p1{
+    height: 80px;
+    width: 150px;
+    margin-top: -60px;
+    margin-left: 10px;
+   
+}
+.t1{
+    font-size: 65px;
+    color: white;
+    padding-left: 490px;
+    padding-top: 120px;
+    font-family: 'Bungee Shade', cursive;
+font-family: 'Ewert', cursive;
+font-family: 'Fruktur', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mogra', cursive;
+font-family: 'Passions Conflict', cursive;
+font-family: 'Rubik Bubbles', cursive;
+}
+.t12{
+    font-size: 65px;
+    color: white;
+    padding-left: 540px;
+    font-family: 'Bungee Shade', cursive;
+font-family: 'Ewert', cursive;
+font-family: 'Fruktur', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mogra', cursive;
+font-family: 'Passions Conflict', cursive;
+font-family: 'Rubik Bubbles', cursive;
+ 
+}
+.t2{
+    font-size: 40px;
+    color:white;
+    padding-left: 480px;
+    padding-top: 10px;
+    font-family: 'Bungee Shade', cursive;
+font-family: 'Ewert', cursive;
+font-family: 'Fruktur', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mogra', cursive;
+font-family: 'Passions Conflict', cursive;
+font-family: 'Rubik Bubbles', cursive;
+   
+}
+.t3{
+    font-size: 30px;
+    color:white;
+    padding-left: 250px;
+    padding-top: 10px;
+    font-family: 'Bungee Shade', cursive;
+font-family: 'Ewert', cursive;
+font-family: 'Fruktur', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mogra', cursive;
+font-family: 'Passions Conflict', cursive;
+font-family: 'Rubik Bubbles', cursive;
+   
+}
+
+.page2{
+    height: 800px;
+    border: 2px solid grey;
+    margin-top: 50px;
+    background-color: black;
+
+}
+.t4{
+    font-size: 45px;
+    color:#cda45e;
+    padding-left: 100px;
+    padding-top: 250px;
+ 
+}
+.t5{
+    font-size: 36px;
+    color: #cda45e;
+    padding-left: 100px;
+   
+ 
+}
+.v1{
+    height: 300px;
+    width: 400px;
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+
+.page3{
+    height: 800px;
+    border: 2px solid grey;
+    margin-top: 50px;
+    background-color: black;
+
+}
+.t6{
+    font-size: 45px;
+    color: #FFC93C;
+    padding-left: 900px;
+    padding-top: 250px;
+   
+}
+.t7{
+    font-size: 36px;
+    color: #FFC93C;
+    padding-left: 900px;
+   
+ 
+}
+.p2{
+    margin-top: -350px;
+    margin-left: 100px;
+}
+.page4{
+    height: 800px;
+    border: 2px solid grey;
+    margin-top: 50px;
+    background-color: black;
+
+}
+.t8{
+    font-size: 45px;
+    color: #cda45e;
+    padding-left: 100px;
+    padding-top: 250px;
+ 
+}
+.t9{
+    font-size: 36px;
+    color:#cda45e;
+    padding-left: 100px;
+   
+ 
+}
+.page5{
+    height: 800px;
+    border: 2px solid grey;
+    margin-top: 50px;
+    background-color: black;
+    padding-top: 150px;
+    padding-left: 150px;
+    background-size: cover;
+
+}
+.t10{
+    font-size: 45px;
+    color:#cda45e;
+   padding-top: -200px;
+   padding-left: 600px;
+   margin-top: -300px;
+ 
+}
+.t11{
+    font-size: 36px;
+    color:#cda45e;
+    padding-left: 600px;
+   
+ 
+}
+.p3{
+   padding-left: -180px;
+}
+
+
